@@ -1,0 +1,8 @@
+@import "tailwindcss/preflight";
+@import "tailwindcss/utilities";
+
+/* Optional custom global styles
+body {
+  font-family: 'Inter', sans-serif;
+  background-color: #f9f9f9;
+} */
